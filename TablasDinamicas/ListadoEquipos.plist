@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <array>
+            <string>Alavés</string>
+            <string>alaves.png</string>
+            <string>Estadio de Mendizorroza</string>
+        </array>
+        <array>
+            <string>Athletic Club de Bilbao</string>
+            <string>athletic.png</string>
+            <string>Estadio Nuevo San Mamés</string>
+        </array>
+        <array>
+            <string>Atlético de Madrid SAD</string>
+            <string>atm.png</string>
+            <string>Estadio Vicente Calderón</string>
+        </array>
+        <array>
+            <string>Real Betis Balompié</string>
+            <string>betis.png</string>
+            <string>Estadio Benito Villamarín</string>
+        </array>
+        <array>
+            <string>Celta de Vigo</string>
+            <string>celta.png</string>
+            <string>Estadio Municipal de Balaídos</string>
+        </array>
+        <array>
+            <string>Deportivo de la Coruña</string>
+            <string>depor.png</string>
+            <string>Estadio de Riazor</string>
+        </array>
+        <array>
+            <string>SD Eibar</string>
+            <string>eibar.png</string>
+            <string>Estadio Municipal de Ipurúa</string>
+        </array>
+        <array>
+            <string>RCD Espanyol</string>
+            <string>espanyol.png</string>
+            <string>RCD Espanyol Stadium</string>
+        </array>
+        <array>
+            <string>FC Barcelona</string>
+            <string>fcb.png</string>
+            <string>Camp Nou</string>
+        </array>
+        <array>
+            <string>Granada CF</string>
+            <string>granada.png</string>
+            <string>Estadio Nuevo Los Carmenes</string>
+        </array>
+        <array>
+            <string>UD Las Palmas</string>
+            <string>laspalmas.png</string>
+            <string>Estadio de Gran Canaria</string>
+        </array>
+        <array>
+            <string>Leganés</string>
+            <string>leganes.png</string>
+            <string>Estadio Municipal de Buarque</string>
+        </array>
+        <array>
+            <string>Málaga CF</string>
+            <string>malaga.png</string>
+            <string>Estadio de La Rosaleda</string>
+        </array>
+        <array>
+            <string>CA Osasuna</string>
+            <string>osasuna.png</string>
+            <string>Estadio El Sadar</string>
+        </array>
+        <array>
+            <string>Real Madrid CF</string>
+            <string>realmadrid.png</string>
+            <string>Estadio Benito Villamarín</string>
+        </array>
+        <array>
+            <string>Real Sociedad</string>
+            <string>realsociedad.png</string>
+            <string>Estadio de Anoeta</string>
+        </array>
+        <array>
+            <string>Real Sporting de Gijón</string>
+            <string>realsporting.png</string>
+            <string>Estadio El Molinón</string>
+        </array>
+        <array>
+            <string>Sevilla FC</string>
+            <string>sevilla.png</string>
+            <string>Estadio Ramón Sánchez Pizjuán</string>
+        </array>
+        <array>
+            <string>Valencia</string>
+            <string>valencia.png</string>
+            <string>Estadio Mestalla</string>
+        </array>
+        <array>
+            <string>Villarreal</string>
+            <string>villarreal.png</string>
+            <string>Estadio de la Cerámica - Endesa</string>
+        </array>
+    </array>
+</plist>
